@@ -18,3 +18,13 @@
 /eureka-server/.project
 /eureka-server/.settings
 /eureka-server/target
+.factorypath
+pom.properties
+pom.xml
+EurekaClient1Application.class
+StudentController.class
+Student.class
+StudentService.class
+StudentServiceImpl.class
+messages.properties
+EurekaClient1ApplicationTests.class
