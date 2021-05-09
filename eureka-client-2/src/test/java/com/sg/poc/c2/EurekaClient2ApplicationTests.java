@@ -1,4 +1,4 @@
-package com.sgarai.eureka.client1;
+package com.sg.poc.c2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
