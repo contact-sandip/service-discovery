@@ -1,4 +1,4 @@
-package com.sgarai.eureka.client1;
+package com.sg.poc.c1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @EnableDiscoveryClient
 @SpringBootApplication
-public class EurekaClient2Application {
+public class EurekaClient1Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EurekaClient2Application.class, args);
+		SpringApplication.run(EurekaClient1Application.class, args);
 	}
 
 }
